@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+     "name": "Lookup Kanji",
+     "short_name": "Search",
+     "description": "Searches for selected kanji in KanjiDamage, Jisho and Google Translate",
+     "version": "0.0.1",
+     "minimum_chrome_version": "38",
+     "permissions": [
+     "contextMenus",
+     "tabs"],
+     "icons": {
+        "16": "assets/reiko-kanji.png",
+        "48": "assets/reiko-kanji.png",
+        "128": "assets/reiko-kanji.png"
+    }
+}
